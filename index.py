@@ -8,6 +8,7 @@ b=none
 print("values")
 print(a,b)
 print(type(a))
+<<<<<<< HEAD
 
 #2nd method
 a = 5
@@ -48,3 +49,5 @@ print(u, t, v)
 
 
 
+=======
+>>>>>>> 5b37e0f948e4418cec4b62baf65c386443807934
