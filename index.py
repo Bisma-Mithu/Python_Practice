@@ -8,7 +8,7 @@ b=none
 print("values")
 print(a,b)
 print(type(a))
-<<<<<<< HEAD
+
 
 #2nd method
 a = 5
